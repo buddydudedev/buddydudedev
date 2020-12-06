@@ -15,14 +15,12 @@
 
 <img alt="Unreal Engine" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unreal-engine/unreal-engine.png" />
 
-<br />
-
 ### Cashflow Classic
 
-<img float="left" alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img float="left" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img float="left" alt="CreateJS" width="48px" src="https://cdn.freebiesupply.com/logos/thumbs/1x/createjs-logo.png" />
-<img float="left" alt="Firebase" width="36px" src="https://coronalabs.com/wordpress/wp-content/uploads/2017/04/Firebase_16-logo.png" />
+<img align="left" alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="CreateJS" width="48px" src="https://cdn.freebiesupply.com/logos/thumbs/1x/createjs-logo.png" />
+<img align="left" alt="Firebase" width="36px" src="https://coronalabs.com/wordpress/wp-content/uploads/2017/04/Firebase_16-logo.png" />
 
 <br />
 
@@ -30,10 +28,10 @@
 
 ### Whiskey on the Rocks
 
-<img float="left" alt="CPP" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img float="left" alt="Python" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img float="left" alt="Maya" width="36px" src="https://javiscomputers.com/wp-content/uploads/2019/04/maya-3d-2017-logo-icon-vector.png" />
-<img float="left" alt="RenderMan" width="40px" src="https://cronobo.com/static/img/RenderMan_Logo_R.a19f657.jpg" />
+<img align="left" alt="CPP" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
+<img align="left" alt="Python" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="Maya" width="36px" src="https://javiscomputers.com/wp-content/uploads/2019/04/maya-3d-2017-logo-icon-vector.png" />
+<img align="left" alt="RenderMan" width="40px" src="https://cronobo.com/static/img/RenderMan_Logo_R.a19f657.jpg" />
 
 <br />
 <br />
@@ -44,7 +42,7 @@ This project combined the ability to load geometry at render-time alongside a po
 
 ### Drop Radio
 
-<img align="left" alt="p5" width="36px" src="https://p5js.org/assets/img/p5js.svg" />
+<img alt="p5" width="36px" src="https://p5js.org/assets/img/p5js.svg" />
 
 <br />
 
