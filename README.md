@@ -19,10 +19,10 @@
 
 ### Cashflow Classic
 
-<img align="left" alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="CreateJS" width="48px" src="https://cdn.freebiesupply.com/logos/thumbs/1x/createjs-logo.png" />
-<img align="left" alt="Firebase" width="36px" src="https://coronalabs.com/wordpress/wp-content/uploads/2017/04/Firebase_16-logo.png" />
+<img float="left" alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img float="left" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img float="left" alt="CreateJS" width="48px" src="https://cdn.freebiesupply.com/logos/thumbs/1x/createjs-logo.png" />
+<img float="left" alt="Firebase" width="36px" src="https://coronalabs.com/wordpress/wp-content/uploads/2017/04/Firebase_16-logo.png" />
 
 <br />
 
