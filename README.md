@@ -46,7 +46,7 @@
 ## 💬 Contact
 
 - 📧 *Coming soon!*
-- <img height="32" width="32" src="ri-messenger-fill" /> *Coming soon!*
+- <img alt="Messenger" width="14px" src="https://logos-download.com/wp-content/uploads/2016/09/Facebook_Messenger_logo.png" /> *Coming soon!*
 
 ## 🔗 Links
 
