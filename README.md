@@ -46,7 +46,7 @@
 ## 💬 Contact
 
 - 📧 *Coming soon!*
-- <i class="ri-messenger-fill"></i> *Coming soon!*
+- <img height="32" width="32" src="ri-messenger-fill" /> *Coming soon!*
 
 ## 🔗 Links
 
