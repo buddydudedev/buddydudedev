@@ -13,7 +13,7 @@
 
 ### Of Chickens and Dragons
 
-<img alt="Unreal Engine" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unreal-engine/unreal-engine.png" />
+<img alt="Unreal Engine" width="36px" src="https://vectorified.com/images/epic-games-icon-35.png" />
 
 ### Cashflow Classic
 
@@ -28,7 +28,7 @@
 
 ### Whiskey on the Rocks
 
-<img align="left" alt="CPP" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
+<img align="left" alt="CPP" width="36px" src="https://github.com/devicons/devicon/raw/master/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="Python" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Maya" width="36px" src="https://javiscomputers.com/wp-content/uploads/2019/04/maya-3d-2017-logo-icon-vector.png" />
 <img align="left" alt="RenderMan" width="40px" src="https://cronobo.com/static/img/RenderMan_Logo_R.a19f657.jpg" />
@@ -61,12 +61,12 @@ This project combined the ability to load geometry at render-time alongside a po
 
 ### 👨‍💻 Development
 
-<img align="left" alt="CPP" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
+<img align="left" alt="CPP" width="36px" src="https://github.com/devicons/devicon/raw/master/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="Latex" width="45px" src="https://cdn.freebiesupply.com/logos/large/2x/latex-logo-png-transparent.png" />
 <img align="left" alt="Markdown" width="54px" src="https://leantesting.com/wp-content/uploads/2016/04/Markdown-mark.svg_.png" />
-<img align="left" alt="Unreal Engine" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unreal-engine/unreal-engine.png" />
+<img align="left" alt="Unreal Engine" width="36px" src="https://vectorified.com/images/epic-games-icon-35.png" />
 <img align="left" alt="Git" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="GitHub" width="36px" src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" />
 
 <br /> 
 
