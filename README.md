@@ -26,7 +26,7 @@
 
 ## 💾 Other Projects
 
-### Whiskey on the Rocks
+### [Whiskey on the Rocks][WhiskeyOnTheRocks]
 
 <img align="left" alt="CPP" width="32px" src="https://github.com/devicons/devicon/raw/master/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
@@ -38,7 +38,7 @@
 
 <img alt="Whiskey on the Rocks" width="480px" src="https://raw.githubusercontent.com/DevonDGithub/WhiskeyOnTheRocks/master/Images/whiskey.jpg" />
 
-This project combined the ability to load geometry at render-time alongside a popular 3D game development algorithm to create ice cubes that cannot overlap each other.
+This project combined the ability to load geometry at render-time alongside a popular 3D game development algorithm to create ice cubes that cannot overlap each other. [>][WhiskeyOnTheRocks]
 
 ### Drop Radio
 
@@ -90,3 +90,6 @@ This project combined the ability to load geometry at render-time alongside a po
 ### 🌐 Social Media
 
 *Coming soon!*
+
+<!-- Links -->
+[WhiskeyOnTheRocks]: https://github.com/DevonDGithub/WhiskeyOnTheRocks
