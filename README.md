@@ -13,14 +13,14 @@
 
 ### Of Chickens and Dragons
 
-<img alt="Unreal Engine" width="36px" src="https://vectorified.com/images/epic-games-icon-35.png" />
+<img alt="Unreal Engine" width="32px" src="https://vectorified.com/images/epic-games-icon-35.png" />
 
 ### Cashflow Classic
 
-<img align="left" alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="CreateJS" width="48px" src="https://cdn.freebiesupply.com/logos/thumbs/1x/createjs-logo.png" />
-<img align="left" alt="Firebase" width="36px" src="https://coronalabs.com/wordpress/wp-content/uploads/2017/04/Firebase_16-logo.png" />
+<img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="CreateJS" width="32px" src="https://avatars0.githubusercontent.com/u/1497318?s=200&v=4" />
+<img align="left" alt="Firebase" width="32px" src="https://coronalabs.com/wordpress/wp-content/uploads/2017/04/Firebase_16-logo.png" />
 
 <br />
 
@@ -28,10 +28,10 @@
 
 ### Whiskey on the Rocks
 
-<img align="left" alt="CPP" width="36px" src="https://github.com/devicons/devicon/raw/master/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="Python" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Maya" width="36px" src="https://javiscomputers.com/wp-content/uploads/2019/04/maya-3d-2017-logo-icon-vector.png" />
-<img align="left" alt="RenderMan" width="40px" src="https://cronobo.com/static/img/RenderMan_Logo_R.a19f657.jpg" />
+<img align="left" alt="CPP" width="32px" src="https://github.com/devicons/devicon/raw/master/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="Maya" width="32px" src="https://javiscomputers.com/wp-content/uploads/2019/04/maya-3d-2017-logo-icon-vector.png" />
+<img align="left" alt="RenderMan" height="38px" src="https://img2.pngio.com/pixars-renderman-news-renderman-at-siggraph-2019-renderman-png-512_512.png" />
 
 <br />
 <br />
@@ -42,7 +42,7 @@ This project combined the ability to load geometry at render-time alongside a po
 
 ### Drop Radio
 
-<img alt="p5" width="36px" src="https://p5js.org/assets/img/p5js.svg" />
+<img alt="p5" width="32px" src="https://p5js.org/assets/img/p5js.svg" />
 
 <br />
 
@@ -61,20 +61,21 @@ This project combined the ability to load geometry at render-time alongside a po
 
 ### 👨‍💻 Development
 
-<img align="left" alt="CPP" width="36px" src="https://github.com/devicons/devicon/raw/master/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="Latex" width="45px" src="https://cdn.freebiesupply.com/logos/large/2x/latex-logo-png-transparent.png" />
-<img align="left" alt="Markdown" width="54px" src="https://leantesting.com/wp-content/uploads/2016/04/Markdown-mark.svg_.png" />
-<img align="left" alt="Unreal Engine" width="36px" src="https://vectorified.com/images/epic-games-icon-35.png" />
-<img align="left" alt="Git" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="36px" src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" />
+<img align="left" alt="CPP" width="32px" src="https://github.com/devicons/devicon/raw/master/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="Latex" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Antu_texmaker.svg/512px-Antu_texmaker.svg.png" />
+<img align="left" alt="Markdown" width="32px" src="https://img.icons8.com/nolan/2x/markdown.png" />
+<img align="left" alt="Unreal Engine" width="32px" src="https://vectorified.com/images/epic-games-icon-35.png" />
+<img align="left" alt="Git" width="32px" src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" />
 
 <br /> 
 
 ### 📐 Design
 
-<img align="left" alt="Affinity" width="36px" src="https://logos-download.com/wp-content/uploads/2018/06/Affinity_logo_cube.png" />
-<img align="left" alt="Kdenlive" width="36px" src="https://seeklogo.com/images/K/kdenlive-logo-CAAD792F3F-seeklogo.com.png" />
-<img align="left" alt="Libreoffice" width="36px" src="https://dl2.macupdate.com/images/icons256/35446.png?d=1519935795" />
+<img align="left" alt="AffinityPhoto" width="32px" src="http://www.timtyson.us/wordpress/wp-content/uploads/2015/12/Affinity-Photo-App-Icon.png" />
+<img align="left" alt="AffinityDesigner" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Affinity-Designer.png" />
+<img align="left" alt="AffinityPublisher" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/7/78/Affinity-publisher-icon-1080.png" />
+<img align="left" alt="Kdenlive" width="32px" src="https://seeklogo.com/images/K/kdenlive-logo-CAAD792F3F-seeklogo.com.png" />
+<img align="left" alt="Libreoffice" width="32px" src="https://dl2.macupdate.com/images/icons256/35446.png?d=1519935795" />
 
 <br />
 
