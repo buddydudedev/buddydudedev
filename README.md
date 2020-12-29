@@ -6,7 +6,7 @@
 - 🧔 My pronouns are he/him and they/them.
 - 🎓 I'm currently a graduate student at Savannah College of Art and Design.
 - 📝 I'm currently working on my thesis.
-- 🌹 I'm a member of the Democratic Socialists of America.
+<!-- - 🌹 I'm a member of the DSA and IWW. -->
 - ☕ I drink a lot of coffee.
 
 ## 🕹️ Games
@@ -50,7 +50,7 @@ This project combined the ability to load geometry at render-time alongside a po
 
 - 📦 I've developed and shipped games on small teams.
 - 👨‍🏫 I've tutored and hosted workshops for undergraduate and graduate game programming courses and topics.
-- 🤝 I've participated in community organizing for progressive movements and campaigns.
+<!-- - 🤝 I've participated in community organizing for progressive movements and campaigns. -->
 
 ## 🥅 Goals
 
