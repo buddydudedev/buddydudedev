@@ -77,7 +77,6 @@ This project was an updated version of a previous audio visualizer that now runs
 <img align="left" alt="Markdown" width="32px" src="https://img.icons8.com/nolan/2x/markdown.png" />
 
 <br />
-<br />
 
 #### ⚙️ Engines, Frameworks and APIs
 
