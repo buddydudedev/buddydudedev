@@ -7,6 +7,18 @@
 - ☕ I drink a lot of coffee.
 <!-- - 🌹 I'm a member of the DSA and IWW. -->
 
+## 🤹 Skills
+
+- 📦 I've developed and shipped games on small teams.
+- 👨‍🏫 I've tutored and hosted workshops for undergraduate and graduate game programming courses and topics.
+<!-- - 🤝 I've participated in community organizing for progressive movements and campaigns. -->
+
+## 🥅 Goals
+
+- 🏫 In the short term, my goal is to teach game design and development at a college or university.
+  - 🏢 I'm also open to returning to industry and working at a game studio.
+- 🧑‍🤝‍🧑 In the long term, I want to start a game development cooperative.
+
 ## 🕹️ Games
 
 ### Of Chickens and Dragons
@@ -50,18 +62,6 @@ This project combined the ability to load geometry at render-time alongside a po
 <img alt="Drop Radio" width="480px" src="https://raw.githubusercontent.com/DevonDGithub/DropRadio/master/assets/graphics/drop-ui.png" />
 
 This project was an updated version of a previous audio visualizer that now runs natively on the web, has audio playback controls and line art powered by the music. [>][DropRadio]
-
-## 🤹 Skills
-
-- 📦 I've developed and shipped games on small teams.
-- 👨‍🏫 I've tutored and hosted workshops for undergraduate and graduate game programming courses and topics.
-<!-- - 🤝 I've participated in community organizing for progressive movements and campaigns. -->
-
-## 🥅 Goals
-
-- 🏫 In the short term, my goal is to teach game design and development at a college or university.
-  - 🏢 I'm also open to returning to industry and working at a game studio.
-- 🧑‍🤝‍🧑 In the long term, I want to start a game development cooperative.
 
 ## ⚒️ Tools
 
@@ -108,9 +108,7 @@ This project was an updated version of a previous audio visualizer that now runs
 
 #### 📋 Office
 
-<img align="left" alt="Libreoffice" width="32px" src="https://dl2.macupdate.com/images/icons256/35446.png?d=1519935795" />
-
-<br />
+<img alt="Libreoffice" width="32px" src="https://dl2.macupdate.com/images/icons256/35446.png?d=1519935795" />
 
 ## 💬 Contact
 
@@ -122,7 +120,7 @@ This project was an updated version of a previous audio visualizer that now runs
 
 ### 🌐 Social Media
 
-*Coming soon!*
+<a href="https://www.linkedin.com/in/devondli/" target="_blank"><img align="left" alt="LinkedIn" width="32px" src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/512/Linkedin-icon.png" /></a>
 
 <!-- Links -->
 [WhiskeyOnTheRocks]: https://github.com/DevonDGithub/WhiskeyOnTheRocks
