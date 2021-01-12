@@ -35,9 +35,13 @@
 <br />
 <br />
 
-<img alt="CashflowClassic" width="480px" src="https://raw.githubusercontent.com/DevonDGithub/CashflowClassic/main/Graphics/Images/cashflow-splash.png" />
+<a href="https://github.com/DevonDGithub/CashflowClassic"><img alt="CashflowClassic" width="480px" src="https://raw.githubusercontent.com/DevonDGithub/CashflowClassic/main/Graphics/Images/cashflow-splash.png" /></a>
 
 As a junior developer at YETi CGI, I worked with a small team of developers to port Cashflow Classic, a Flash game for the web, to native web technologies. To accomplish this, we used CreateJS for the graphics and Firebase for the multiplayer functionality. [>][CashflowClassic]
+
+### OpenCombat Design Document
+
+<img alt="Latex" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Antu_texmaker.svg/512px-Antu_texmaker.svg.png" />
 
 ## 💾 Other Projects
 
@@ -51,7 +55,7 @@ As a junior developer at YETi CGI, I worked with a small team of developers to p
 <br />
 <br />
 
-<img alt="Whiskey on the Rocks" width="480px" src="https://raw.githubusercontent.com/DevonDGithub/WhiskeyOnTheRocks/master/Images/whiskey.jpg" />
+<a href="https://github.com/DevonDGithub/WhiskeyOnTheRocks"><img alt="Whiskey on the Rocks" width="480px" src="https://raw.githubusercontent.com/DevonDGithub/WhiskeyOnTheRocks/master/Images/whiskey.jpg" /></a>
 
 This project combined the ability to load geometry at render-time alongside a popular 3D game development algorithm to create ice cubes that cannot overlap each other. [>][WhiskeyOnTheRocks]
 
@@ -59,7 +63,7 @@ This project combined the ability to load geometry at render-time alongside a po
 
 <img alt="p5" width="32px" src="https://pbs.twimg.com/profile_images/502135348663578624/-oslcYof.png" />
 
-<img alt="Drop Radio" width="480px" src="https://raw.githubusercontent.com/DevonDGithub/DropRadio/master/assets/graphics/drop-ui.png" />
+<a href="https://github.com/DevonDGithub/DropRadio"><img alt="Drop Radio" width="480px" src="https://raw.githubusercontent.com/DevonDGithub/DropRadio/master/assets/graphics/drop-ui.png" /></a>
 
 This project was an updated version of a previous audio visualizer that now runs natively on the web, has audio playback controls and line art powered by the music. [>][DropRadio]
 
