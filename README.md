@@ -1,7 +1,7 @@
 # ✌️ I'm Devon Ducharme, welcome to my GitHub! 🐙
 
 - 🎮 I design and develop games.
-- 🧔 My pronouns are he/him and they/them.
+- 🧔 My pronouns are he/him.
 - 🎓 I'm currently a graduate student at Savannah College of Art and Design.
 - 📝 I'm currently working on my thesis.
 - ☕ I drink a lot of coffee.
