@@ -107,7 +107,7 @@ This project was an updated version of a previous audio visualizer that now runs
 
 #### 👾 Graphics
 
-<img align="left" alt="SubstanceDesigner" width="32px" src="https://howtolearn.me/wp-content/uploads/2015/11/Substance-Designer-Logo.png" />
+<img align="left" alt="SubstanceDesigner" width="28px" src="https://howtolearn.me/wp-content/uploads/2015/11/Substance-Designer-Logo.png" />
 <img align="left" alt="AffinityPhoto" width="32px" src="http://www.timtyson.us/wordpress/wp-content/uploads/2015/12/Affinity-Photo-App-Icon.png" />
 <img align="left" alt="AffinityDesigner" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Affinity-Designer.png" />
 <img align="left" alt="AffinityPublisher" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/7/78/Affinity-publisher-icon-1080.png" />
@@ -118,7 +118,7 @@ This project was an updated version of a previous audio visualizer that now runs
 #### 📋 Office
 
 <img align="left" alt="Libreoffice" width="32px" src="https://dl2.macupdate.com/images/icons256/35446.png?d=1519935795" />
-<img align="left" alt="Zotero" width="32px" src="https://www.zotero.org/support/_media/logo/zotero_512x512x32.png" />
+<img alt="Zotero" width="32px" src="https://www.zotero.org/support/_media/logo/zotero_512x512x32.png" />
 
 ## 💬 Contact
 
