@@ -39,9 +39,13 @@
 
 As a junior developer at YETi CGI, I worked with a small team of developers to port Cashflow Classic, a Flash game for the web, to native web technologies. To accomplish this, we used CreateJS for the graphics and Firebase for the multiplayer functionality. [>][CashflowClassic]
 
-### OpenCombat Design Document
+### [OpenCombat Design Document][OpenCombatDesignDocument]
 
 <img alt="Latex" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Antu_texmaker.svg/512px-Antu_texmaker.svg.png" />
+
+<a href="https://github.com/DevonDGithub/OpenCombatDesignDocument" target="_blank"><img alt="OpenCombat" width="480px" src="https://raw.githubusercontent.com/DevonDGithub/OpenCombatDesignDocument/master/images/OCGD1024_20.png" /></a>
+
+As a graduate student at Savannah College of Art and Design, I was tasked with drafting the documentation for a game of our choosing. I chose to design an open-source platform fighting game with an emphasis on community building. [>][OpenCombatDesignDocument]
 
 ## 💾 Other Projects
 
@@ -103,6 +107,7 @@ This project was an updated version of a previous audio visualizer that now runs
 
 #### 👾 Graphics
 
+<img align="left" alt="SubstanceDesigner" width="32px" src="https://howtolearn.me/wp-content/uploads/2015/11/Substance-Designer-Logo.png" />
 <img align="left" alt="AffinityPhoto" width="32px" src="http://www.timtyson.us/wordpress/wp-content/uploads/2015/12/Affinity-Photo-App-Icon.png" />
 <img align="left" alt="AffinityDesigner" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Affinity-Designer.png" />
 <img align="left" alt="AffinityPublisher" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/7/78/Affinity-publisher-icon-1080.png" />
@@ -112,7 +117,8 @@ This project was an updated version of a previous audio visualizer that now runs
 
 #### 📋 Office
 
-<img alt="Libreoffice" width="32px" src="https://dl2.macupdate.com/images/icons256/35446.png?d=1519935795" />
+<img align="left" alt="Libreoffice" width="32px" src="https://dl2.macupdate.com/images/icons256/35446.png?d=1519935795" />
+<img align="left" alt="Zotero" width="32px" src="https://www.zotero.org/support/_media/logo/zotero_512x512x32.png" />
 
 ## 💬 Contact
 
@@ -130,3 +136,4 @@ This project was an updated version of a previous audio visualizer that now runs
 [WhiskeyOnTheRocks]: https://github.com/DevonDGithub/WhiskeyOnTheRocks
 [CashflowClassic]: https://github.com/DevonDGithub/CashflowClassic
 [DropRadio]: https://github.com/DevonDGithub/DropRadio
+[OpenCombatDesignDocument]: https://github.com/DevonDGithub/OpenCombatDesignDocument
