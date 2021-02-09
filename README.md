@@ -21,9 +21,13 @@
 
 ## 🕹️ Games
 
-### Of Chickens and Dragons
+### [Of Chickens and Dragons][OfChickensAndDragons]
 
 <img alt="Unreal Engine" width="32px" src="https://vectorified.com/images/epic-games-icon-35.png" />
+
+<a href="https://github.com/DevonDGithub/OfChickensAndDragons" target="_blank"><img alt="CashflowClassic" width="480px" src="https://github.com/DevonDGithub/OfChickensAndDragons/raw/main/Images/jump.PNG" /></a>
+
+While taking the graduate-level Level Design course at Savannah College of Art and Design, I was tasked with creating a gameplay kit that could be used to build at least three unique encounters using Unreal Engine 4 and Blueprints. [>][OfChickensAndDragons]
 
 ### [Cashflow Classic][CashflowClassic]
 
@@ -138,3 +142,4 @@ This project was an updated version of a previous audio visualizer that now runs
 [CashflowClassic]: https://github.com/DevonDGithub/CashflowClassic
 [DropRadio]: https://github.com/DevonDGithub/DropRadio
 [OpenCombatDesignDocument]: https://github.com/DevonDGithub/OpenCombatDesignDocument
+[OfChickensAndDragons]: https://github.com/DevonDGithub/OfChickensAndDragons
