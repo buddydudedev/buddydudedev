@@ -45,11 +45,25 @@ As a junior developer at YETi CGI, I worked with a small team of developers to p
 
 ### [OpenCombat Design Document][OpenCombatDesignDocument]
 
-<img alt="Latex" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Antu_texmaker.svg/512px-Antu_texmaker.svg.png" />
+<img align="left" alt="Latex" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Antu_texmaker.svg/512px-Antu_texmaker.svg.png" />
+<img align="left" alt="Zotero" width="32px" src="https://www.zotero.org/support/_media/logo/zotero_512x512x32.png" />
+
+<br />
+<br />
 
 <a href="https://github.com/DevonDGithub/OpenCombatDesignDocument" target="_blank"><img alt="OpenCombat" width="480px" src="https://raw.githubusercontent.com/DevonDGithub/OpenCombatDesignDocument/master/images/OCGD1024_20.png" /></a>
 
 As a graduate student at Savannah College of Art and Design, I was tasked with drafting the documentation for a game of our choosing. I chose to design an open-source platform fighting game with an emphasis on community building. [>][OpenCombatDesignDocument]
+
+### [Procedural Stylized Materials][ProceduralStylizedMaterials]
+
+<img alt="SubstanceDesigner" width="28px" src="https://howtolearn.me/wp-content/uploads/2015/11/Substance-Designer-Logo.png" />
+
+<!--
+<a href="https://github.com/DevonDGithub/OpenCombatDesignDocument" target="_blank"><img alt="OpenCombat" width="480px" src="https://raw.githubusercontent.com/DevonDGithub/OpenCombatDesignDocument/master/images/OCGD1024_20.png" /></a>
+-->
+
+While taking the Game Art Methods graduate course at Savannah College of Art and Design, I was tasked with creating a collection of game assets that could be used to create an environment. [>][ProceduralStylizedMaterials]
 
 ## 💾 Other Projects
 
@@ -69,11 +83,31 @@ This project combined the ability to load geometry at render-time alongside a po
 
 ### [Drop Radio][DropRadio]
 
-<img alt="p5" width="32px" src="https://pbs.twimg.com/profile_images/502135348663578624/-oslcYof.png" />
+<img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="p5" width="32px" src="https://pbs.twimg.com/profile_images/502135348663578624/-oslcYof.png" />
+
+<br />
+<br />
 
 <a href="https://github.com/DevonDGithub/DropRadio" target="_blank"><img alt="Drop Radio" width="480px" src="https://raw.githubusercontent.com/DevonDGithub/DropRadio/master/assets/graphics/drop-ui.png" /></a>
 
 This project was an updated version of a previous audio visualizer that now runs natively on the web, has audio playback controls and line art powered by the music. [>][DropRadio]
+
+### [Scroll][Scroll]
+
+<img align="left" alt="AffinityPhoto" width="32px" src="http://www.timtyson.us/wordpress/wp-content/uploads/2015/12/Affinity-Photo-App-Icon.png" />
+<img align="left" alt="AffinityDesigner" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Affinity-Designer.png" />
+<img align="left" alt="AffinityPublisher" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/7/78/Affinity-publisher-icon-1080.png" />
+<img align="left" alt="Kdenlive" width="32px" src="https://seeklogo.com/images/K/kdenlive-logo-CAAD792F3F-seeklogo.com.png" />
+<img align="left" alt="Libreoffice" width="32px" src="https://dl2.macupdate.com/images/icons256/35446.png?d=1519935795" />
+<img align="left" alt="Zotero" width="32px" src="https://www.zotero.org/support/_media/logo/zotero_512x512x32.png" />
+
+<br />
+<br />
+
+<a href="https://github.com/DevonDGithub/DropRadio" target="_blank"><img alt="Scroll" width="480px" src="https://github.com/DevonDGithub/Scroll/blob/main/Images/PROCESS_BOOK1024_49.png?raw=true" /></a>
+
+As part of the Applied Theory in Design course, we were tasked with collaborating in groups to identify a problem and design a prototype of a solution. [>][Scroll]
 
 ## ⚒️ Tools
 
@@ -131,10 +165,6 @@ This project was an updated version of a previous audio visualizer that now runs
 
 ## 🔗 Links
 
-- *Coming soon!*
-
-### 🌐 Social Media
-
 <a href="https://www.linkedin.com/in/devondli/" target="_blank"><img align="left" alt="LinkedIn" width="32px" src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/512/Linkedin-icon.png" /></a>
 
 <!-- Links -->
@@ -143,3 +173,5 @@ This project was an updated version of a previous audio visualizer that now runs
 [DropRadio]: https://github.com/DevonDGithub/DropRadio
 [OpenCombatDesignDocument]: https://github.com/DevonDGithub/OpenCombatDesignDocument
 [OfChickensAndDragons]: https://github.com/DevonDGithub/OfChickensAndDragons
+[ProceduralStylizedMaterials]: https://github.com/DevonDGithub/ProceduralStylizedMaterials
+[Scroll]: https://github.com/DevonDGithub/Scroll
