@@ -57,11 +57,13 @@ As a graduate student at Savannah College of Art and Design, I was tasked with d
 
 ### [Procedural Stylized Materials][ProceduralStylizedMaterials]
 
-<img alt="SubstanceDesigner" width="28px" src="https://howtolearn.me/wp-content/uploads/2015/11/Substance-Designer-Logo.png" />
+<img align="left" alt="SubstanceDesigner" width="28px" src="https://howtolearn.me/wp-content/uploads/2015/11/Substance-Designer-Logo.png" />
+<img align="left" alt="Unreal Engine" width="32px" src="https://vectorified.com/images/epic-games-icon-35.png" />
 
-<!--
-<a href="https://github.com/DevonDGithub/OpenCombatDesignDocument" target="_blank"><img alt="OpenCombat" width="480px" src="https://raw.githubusercontent.com/DevonDGithub/OpenCombatDesignDocument/master/images/OCGD1024_20.png" /></a>
--->
+<br />
+<br />
+
+<a href="https://github.com/DevonDGithub/ProceduralStylizedMaterials" target="_blank"><img alt="Materials" width="480px" src="https://github.com/DevonDGithub/ProceduralStylizedMaterials/raw/main/Images/ducharmed_project_d_part_3_sheet_1.png" /></a>
 
 While taking the Game Art Methods graduate course at Savannah College of Art and Design, I was tasked with creating a collection of game assets that could be used to create an environment. [>][ProceduralStylizedMaterials]
 
