@@ -161,10 +161,6 @@ As part of the Applied Theory in Design course, we were tasked with collaboratin
 <img align="left" alt="Libreoffice" width="32px" src="https://dl2.macupdate.com/images/icons256/35446.png?d=1519935795" />
 <img alt="Zotero" width="32px" src="https://www.zotero.org/support/_media/logo/zotero_512x512x32.png" />
 
-## 💬 Contact
-
-- 📧 *Coming soon!*
-
 ## 🔗 Links
 
 <a href="https://www.linkedin.com/in/devondli/" target="_blank"><img align="left" alt="LinkedIn" width="32px" src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/512/Linkedin-icon.png" /></a>
