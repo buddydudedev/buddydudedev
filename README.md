@@ -5,7 +5,6 @@
 - 🎓 I'm currently a graduate student at Savannah College of Art and Design.
 - 📝 I'm currently working on my thesis.
 - ☕ I drink a lot of coffee.
-<!-- - 🌹 I'm a member of the DSA and IWW. -->
 
 ## 🤹 Skills
 
@@ -55,6 +54,8 @@ As a junior developer at YETi CGI, I worked with a small team of developers to p
 
 As a graduate student at Savannah College of Art and Design, I was tasked with drafting the documentation for a game of our choosing. I chose to design an open-source platform fighting game with an emphasis on community building. [>][OpenCombatDesignDocument]
 
+<!--
+
 ### [Procedural Stylized Materials][ProceduralStylizedMaterials]
 
 <img align="left" alt="SubstanceDesigner" width="28px" src="https://howtolearn.me/wp-content/uploads/2015/11/Substance-Designer-Logo.png" />
@@ -66,6 +67,8 @@ As a graduate student at Savannah College of Art and Design, I was tasked with d
 <a href="https://github.com/DevonDGithub/ProceduralStylizedMaterials" target="_blank"><img alt="Materials" width="480px" src="https://github.com/DevonDGithub/ProceduralStylizedMaterials/raw/main/Images/ducharmed_project_d_part_3_sheet_1.png" /></a>
 
 While taking the Game Art Methods graduate course at Savannah College of Art and Design, I was tasked with creating a collection of game assets that could be used to create an environment. [>][ProceduralStylizedMaterials]
+
+-->
 
 ## 💾 Other Projects
 
@@ -95,6 +98,8 @@ This project combined the ability to load geometry at render-time alongside a po
 
 This project was an updated version of a previous audio visualizer that now runs natively on the web, has audio playback controls and line art powered by the music. [>][DropRadio]
 
+<!--
+
 ### [Scroll][Scroll]
 
 <img align="left" alt="AffinityPhoto" width="32px" src="http://www.timtyson.us/wordpress/wp-content/uploads/2015/12/Affinity-Photo-App-Icon.png" />
@@ -110,6 +115,8 @@ This project was an updated version of a previous audio visualizer that now runs
 <a href="https://github.com/DevonDGithub/DropRadio" target="_blank"><img alt="Scroll" width="480px" src="https://github.com/DevonDGithub/Scroll/blob/main/Images/PROCESS_BOOK1024_49.png?raw=true" /></a>
 
 As part of the Applied Theory in Design course, we were tasked with collaborating in groups to identify a problem and design a prototype of a solution. [>][Scroll]
+
+-->
 
 ## ⚒️ Tools
 
