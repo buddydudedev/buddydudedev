@@ -12,12 +12,13 @@
 - 👨‍🏫 I've tutored and hosted workshops for undergraduate and graduate game programming courses and topics.
 <!-- - 🤝 I've participated in community organizing for progressive movements and campaigns. -->
 
+<!--
 ## 🥅 Career Goals
 
 - 🧑‍🤝‍🧑 I want to work at or start a game development co-op.
 - 🏫 I want to bring my experiences back to a university and teach game design and development.
 - 🏢 I'm also open to other opportunities in the video game, visual effects, app development and web development industries.
-
+-->
 ## 🕹️ Games
 
 ### [Of Chickens and Dragons][OfChickensAndDragons]
