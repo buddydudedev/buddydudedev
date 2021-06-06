@@ -1,14 +1,12 @@
 # ✌️ I'm Devon Ducharme, welcome to my GitHub! 🐙
 
-- 🎮 I design and develop games.
+- 🎮 I design and develop apps, websites, and games.
 - 🧔 My pronouns are he/him.
-- 🎓 I'm currently a graduate student at Savannah College of Art and Design.
-- 📝 I'm currently working on my thesis.
 - ☕ I drink a lot of coffee.
 
 ## 🤹 Skills
 
-- 📦 I've developed and shipped games on small teams.
+- 📦 I've developed and shipped web games on small teams.
 - 👨‍🏫 I've tutored and hosted workshops for undergraduate and graduate game programming courses and topics.
 <!-- - 🤝 I've participated in community organizing for progressive movements and campaigns. -->
 
