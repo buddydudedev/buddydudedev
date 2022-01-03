@@ -1,4 +1,4 @@
-# ✌️ I'm Devon Ducharme, welcome to my GitHub! 🐙
+# ✌️ I'm Devon, welcome to my GitHub! 🐙
 
 👋 *I appreciate you stopping by but I'm currently in the process of updating my portfolio and reconstructing this page. Check back in soon!* 🚧
 
