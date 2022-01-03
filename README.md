@@ -169,11 +169,11 @@ As part of the Applied Theory in Design course, we were tasked with collaboratin
 
 <a href="https://www.linkedin.com/in/devondli/" target="_blank"><img align="left" alt="LinkedIn" width="32px" src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/512/Linkedin-icon.png" /></a>
 
-<!-- Links -->
 [WhiskeyOnTheRocks]: https://github.com/DevonDGithub/WhiskeyOnTheRocks
 [CashflowClassic]: https://github.com/DevonDGithub/CashflowClassic
 [DropRadio]: https://github.com/DevonDGithub/DropRadio
 [OpenCombatDesignDocument]: https://github.com/DevonDGithub/OpenCombatDesignDocument
 [OfChickensAndDragons]: https://github.com/DevonDGithub/OfChickensAndDragons
 [ProceduralStylizedMaterials]: https://github.com/DevonDGithub/ProceduralStylizedMaterials
-[Scroll]: https://github.com/DevonDGithub/Scroll -->
+[Scroll]: https://github.com/DevonDGithub/Scroll
+-->
