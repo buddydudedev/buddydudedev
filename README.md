@@ -1,5 +1,11 @@
 # ✌️ I'm Devon Ducharme, welcome to my GitHub! 🐙
 
+👋 *I appreciate you stopping by but I'm currently in the process of updating my portfolio and reconstructing this page. Check back in soon!* 🚧
+
+<!--
+
+# Old Content
+ 
 - 🎮 I design and develop apps, websites, and games.
 - 🧔 My pronouns are he/him.
 - ☕ I drink a lot of coffee.
@@ -8,15 +14,15 @@
 
 - 📦 I've developed and shipped web games on small teams.
 - 👨‍🏫 I've tutored and hosted workshops for undergraduate and graduate game programming courses and topics.
-<!-- - 🤝 I've participated in community organizing for progressive movements and campaigns. -->
+🤝 I've participated in community organizing for progressive movements and campaigns.
 
-<!--
+
 ## 🥅 Career Goals
 
 - 🧑‍🤝‍🧑 I want to work at or start a game development co-op.
 - 🏫 I want to bring my experiences back to a university and teach game design and development.
 - 🏢 I'm also open to other opportunities in the video game, visual effects, app development and web development industries.
--->
+
 ## 🕹️ Games
 
 ### [Of Chickens and Dragons][OfChickensAndDragons]
@@ -170,4 +176,4 @@ As part of the Applied Theory in Design course, we were tasked with collaboratin
 [OpenCombatDesignDocument]: https://github.com/DevonDGithub/OpenCombatDesignDocument
 [OfChickensAndDragons]: https://github.com/DevonDGithub/OfChickensAndDragons
 [ProceduralStylizedMaterials]: https://github.com/DevonDGithub/ProceduralStylizedMaterials
-[Scroll]: https://github.com/DevonDGithub/Scroll
+[Scroll]: https://github.com/DevonDGithub/Scroll -->
