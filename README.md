@@ -13,9 +13,9 @@
 - 📦 I've developed and shipped web apps and games on small teams.
 - 👨‍🏫 I've tutored and hosted workshops for undergraduate and graduate programming courses and topics.
 
-## 🥅 Career Goals
+## 🥅 Goals
 
-- 🧑‍🤝‍🧑 I want to start a non-profit technology co-op.
+- 🧑‍🤝‍🧑 I want to start a non-profit design, science, and technology co-op.
 - 🏫 I want to bring my experiences back to a university and teach adjunctly.
 
 ## 🗂️ Projects
