@@ -37,4 +37,4 @@
 
 ## 🔗 Links
 
-👋 *I appreciate you stopping by but this section is under construction. Check back in soon!* 🚧
+- 📧 [contact@dedu.work](mailto:contact@dedu.work)
