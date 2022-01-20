@@ -2,11 +2,11 @@
 
 ## 🧍 About Me
 
-- 👨‍💻 I work at Michigan State University as a web developer.
-- 🎓 I have an MFA in Interactive Design from Savannah College of Art and Design.
-- 💻 I design and develop open-source software and hardware.
-- 🧔 My pronouns are he/him.
-- ☕ I'm a retired barista who still drinks a lot of coffee.
+- 👨‍💻 Web Developer @ Michigan State University
+- 🎓 MFA in Interactive Design @ Savannah College of Art and Design
+- 💻 Open Source Design and Development
+- 🧔 He/Him
+- ☕ Retired Barista
 
 ## 🤹 Skills
 
