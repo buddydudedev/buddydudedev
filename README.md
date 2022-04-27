@@ -8,19 +8,9 @@
 - 🧔 He/Him
 - ☕ Retired Barista
 
-## 🤹 Skills
-
-- 📦 I've developed and shipped web apps and games on small teams.
-- 👨‍🏫 I've tutored and hosted workshops for undergraduate and graduate programming courses and topics.
-
-## 🥅 Goals
-
-- 🧑‍🤝‍🧑 I want to start a non-profit design, science, and technology co-op.
-- 🏫 I want to bring my experiences back to a university and teach adjunctly.
-
 ## 🗂️ Projects
 
-👋 *I appreciate you stopping by but this section is under construction. Check back in soon!* 🚧
+👋 *I appreciate y'all stopping by but this section is under construction. Check back in soon!* 🚧
 
 <details><summary> 📁 Legacy </summary>  
   
