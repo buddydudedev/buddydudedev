@@ -2,7 +2,7 @@
 
 ## 🧍 About Me
 
-- 👨‍💻 Web Developer @ Michigan State University
+- 🧑‍💻 Web Developer @ Michigan State University
 - 🎓 MFA in Interactive Design @ Savannah College of Art and Design
 - 💻 Open Source Design and Development
 - 🧑 They/Them
