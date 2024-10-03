@@ -5,7 +5,7 @@
 - 🧑‍💻 Web Developer @ Michigan State University
 - 🎓 MFA in Interactive Design @ Savannah College of Art and Design
 - 💻 Open Source Design and Development
-- 🧑 They/Them
+- 🧑 He/Him, They/Them
 - ☕ Retired Barista
 
 ## 🗂️ Projects
