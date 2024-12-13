@@ -27,4 +27,4 @@
   
 ## 🔗 Links
 
-- 📧 [contact@dedu.work](mailto:contact@dedu.work)
+- 📧 [buddydudeio@icloud.com](mailto:buddydudeio@icloud.com)
