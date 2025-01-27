@@ -2,10 +2,10 @@
 
 ## 🧍 About Me
 
-🧑‍💻 Web Developer @ Michigan State University
-🎓 MFA in Interactive Design @ Savannah College of Art and Design
-🐱 Cat Dad
-☕ Retired Barista
+🧑‍💻 Web Developer @ Michigan State University<br/>
+🎓 MFA in Interactive Design @ Savannah College of Art and Design<br/>
+🐱 Cat Dad<br/>
+☕ Retired Barista<br/>
 
 ## 🗂️ Projects
 
@@ -26,5 +26,5 @@
   
 ## 🔗 Links
 
-📧 [Email](mailto:devon@buddydude.dev)
-🦋 [Bluesky](https://bsky.app/profile/buddydude.dev)
+📧 [Email](mailto:devon@buddydude.dev)<br/>
+🦋 [Bluesky](https://bsky.app/profile/buddydude.dev)<br/>
