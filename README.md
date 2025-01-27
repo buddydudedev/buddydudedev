@@ -4,8 +4,7 @@
 
 - 🧑‍💻 Web Developer @ Michigan State University
 - 🎓 MFA in Interactive Design @ Savannah College of Art and Design
-- 💻 Open Source Design and Development
-- 🧑 He/Him, They/Them
+- 🐱 Cat Dad
 - ☕ Retired Barista
 
 ## 🗂️ Projects
