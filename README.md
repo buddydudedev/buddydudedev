@@ -1,8 +1,8 @@
 # ✌️ I'm Devon, welcome to my GitHub! 🐙
 
-👋 *I appreciate y'all stopping by but this section is under construction. Check back in soon!* 🚧
+👋 *I appreciate y'all stopping by but this page is under construction. Check back in soon!* 🚧
 
-<details><summary> 📁 Legacy </summary>  
+<details><summary> 📁 Legacy Projects </summary>  
   
 |               Project               |      Category     |     Languages/Tools    |     Position     |              Location              |           Timeline           |
 |:-----------------------------------:|:-----------------:|:----------------------:|:----------------:|:----------------------------------:|:----------------------------:|
