@@ -23,8 +23,3 @@
 | [Cashflow Classic](https://www.richdad.com/products/cashflow-classic)                    | 🎮 Game, 🌐 Website | 🖼️ CreateJS, 🔥 Firebase | Junior Developer | YETi CGI                           | November 2017 - March 2018   |
 
 </details>
-  
-## 🔗 Links
-
-📧 [Email](mailto:devon@buddydude.dev)<br/>
-🦋 [Bluesky](https://bsky.app/profile/buddydude.dev)<br/>
