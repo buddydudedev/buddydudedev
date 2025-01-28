@@ -1,14 +1,5 @@
 # ✌️ I'm Devon, welcome to my GitHub! 🐙
 
-## 🧍 About Me
-
-🧑‍💻 Web Developer @ Michigan State University<br/>
-🎓 MFA in Interactive Design @ Savannah College of Art and Design<br/>
-🐱 Cat Dad<br/>
-☕ Retired Barista<br/>
-
-## 🗂️ Projects
-
 👋 *I appreciate y'all stopping by but this section is under construction. Check back in soon!* 🚧
 
 <details><summary> 📁 Legacy </summary>  
