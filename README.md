@@ -33,6 +33,8 @@ Next.js/React • Laravel • Godot Engine • Unreal Engine • Autodesk Maya S
 
 Godot Engine • Unreal Engine • Visual Studio • Visual Studio Code • Adobe Creative Cloud • Microsoft Office • Docker
 
+---
+
 <details><summary> 📁 Legacy Projects </summary>  
   
 |               Project               |      Category     |     Languages/Tools    |     Position     |              Location              |           Timeline           |
